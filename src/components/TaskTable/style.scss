@@ -1,0 +1,51 @@
+.dataHeader {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.fade {
+  left: -39px !important;
+  opacity: 1;
+  top: 2px !important;
+}
+
+.fa-ellipsis-v {
+  color: #757575;
+}
+
+.popover-body {
+  max-width: 95px;
+
+  .btn {
+    background: none;
+    color: #757575;
+    font-size: 12px;
+  }
+}
+
+.taskRow {
+  border-bottom: 1px solid #bdbdbd;
+
+  td {
+    padding: 20px 20px 10px!important;
+  }
+}
+
+.taskTable {
+  min-height: 460px;
+}
+
+.taskDescription {
+  color: #303030;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.taskOwner {
+  color: #303030;
+}
+
+.timestamp {
+  color: #757575;
+}

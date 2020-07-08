@@ -1,0 +1,33 @@
+.validTaskOwner {
+  background-color: #f5f5f5;
+  width: 98%;
+}
+
+.invalidTaskOwner {
+  background-color: #f5f5f5;
+  border: 1px solid #e01313;
+  width: 98%;
+}
+
+.validTaskDescription {
+  background-color: #f5f5f5;
+}
+
+.invalidTaskDescription {
+  background-color: #f5f5f5;
+  border: 1px solid #e01313;
+}
+
+.showErrorMsg {
+  visibility: visible;
+  color: #e01313;
+}
+
+.hideErrorMsg {
+  visibility: hidden;
+  color: #e01313;
+}
+
+.showErrorHeading {
+  color: #e01313;
+}
